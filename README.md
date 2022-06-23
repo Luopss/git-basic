@@ -31,4 +31,6 @@ Other useful commands to see what is going on the git repository:
 2. Your answer for What is the difference between `add`, `commit`, and `push`?
 ##
 1.//TODO
+https://github.com/Luopss/git-basic.git
+
 2.add是把自己新增的改动提交到缓存中、commit把缓存中修改过的文件提交到本地仓库、push是把本地仓库的修改提交到远程仓库中。
